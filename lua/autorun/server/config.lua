@@ -7,9 +7,7 @@ MoPrecacher.Config.Count = 0 -- Do not touch
 MoPrecacher.Config.Enable = true -- Enable precacher.
 
 MoPrecacher.Config.modelWhitelist = { -- List of models that will be guaranteed to be loaded!
-    "models/dannio/m135i.mdl",
-    "models/dannio/riverside/x5_13unm.mdl",
-    "models/dannio/riverside/x5_13police.mdl",
+    "models/vehicle/..."
 }
 
 MoPrecacher.Config.modelBlacklist = { -- List of models that will be guaranteed to NOT be loaded!
